@@ -1,4 +1,4 @@
-# design_patter_flutter
+# Design patter flutter
 
 A new Flutter project.
 
